@@ -1,0 +1,6 @@
+slowmo is a mach injection hack to turn on slow motion support in iPhone Simulator 3.0
+
+* Run ./build_slowmo -- that spits out a _slowmo binary
+* Launch the iPhone Simulator
+* Run ./slowmo.sh
+* Press shift three times to turn slowmo on and off
